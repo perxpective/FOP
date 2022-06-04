@@ -1,3 +1,5 @@
+# FOP CA1 Project
+
 Good to take note: To make the command prompt UI more user-friendly, I decided to take to make the most out of Unicode in my titles and headers.
 
 Author: Lee Quan Jun Ervin (P2104005)
