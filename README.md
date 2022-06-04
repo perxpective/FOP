@@ -11,8 +11,6 @@ Good to take note: To make the command prompt UI more user-friendly, I decided t
 Author: Lee Quan Jun Ervin (P2104005)
 Class/Course: DISM/FT/1A/05
 
-[[__TOC__]]
-
 Menu Items:
 [FOOD]
 - Japanese Curry Rice (with choice of meat, spiciness level and size)
